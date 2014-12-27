@@ -17,7 +17,7 @@ with open('README.rst') as f:
 
 setup(
     name='mineshaft',
-    version='0.0.0',
+    version='0.0.1',
     author='Matt Robenolt',
     author_email='matt@ydekproductions.com',
     url='https://github.com/mattrobenolt/python-mineshaft',
